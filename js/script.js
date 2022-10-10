@@ -10,5 +10,5 @@ const colorePreferito = prompt('Dimmi il tuo colore preferito?')
 
 
 document.getElementById('password').innerHTML = `
-  ${nome}${colorePreferito}22.
+  ${nome}${cognome}${colorePreferito}22.
 `;
